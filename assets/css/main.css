@@ -3356,16 +3356,16 @@
 
 	#main {
 		background-color: #ffffff;
-		color: #000000;
+		color: #EAFAF1;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #ffffff;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #d6eaf8;
 		}
 
 		#main strong, #main b {
