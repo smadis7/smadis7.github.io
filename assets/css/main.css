@@ -1624,10 +1624,10 @@
 
 	body {
 		background-color: #82E0AA  ;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #7DCEA0  15%, #d6eaf8  85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #7DCEA0  15%, #d6eaf8   85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #7DCEA0  15%, #d6eaf8  85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #7DCEA0  15%, #d6eaf8   85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8  85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8   85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #d1f2eb 15%, #d6eaf8  85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #d1f2eb  15%, #d6eaf8   85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2044,7 +2044,7 @@
 			input[type="button"].special.icon:before,
 			button.special.icon:before,
 			.button.special.icon:before {
-				color: #d6eaf8 !important;
+				color: #d1f2eb !important;
 			}
 
 /* Form */
@@ -2255,7 +2255,7 @@
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: # d6eaf8;
+		color: # d1f2eb;
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -2398,7 +2398,7 @@
 	}
 
 		.icon.major:before {
-			border-color: #d6eaf8;
+			border-color: #d1f2eb;
 		}
 
 	.icon.alt {
