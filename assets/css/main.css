@@ -3111,7 +3111,7 @@
 		}
 
 			#header.alt h1 {
-				font-size: 3.25em;
+				font-size: 4.25em;
 			}
 
 			#header.alt > * {
@@ -3236,7 +3236,7 @@
 		-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		background-color: #ffffff;
+		background-color: #000000;
 		color: #636363;
 		position: absolute;
 		width: 64em;
@@ -3356,7 +3356,7 @@
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #000000;
 		border-radius: 0.25em;
 	}
 
@@ -3433,7 +3433,7 @@
 			#main button.special,
 			#main .button.special {
 				background-color: #76D7C4  ;
-				color: #ffffff !important;
+				color: #0000 !important;
 				box-shadow: none;
 			}
 
