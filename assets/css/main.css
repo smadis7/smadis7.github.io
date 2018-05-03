@@ -1623,11 +1623,11 @@ D4E6F1 @import url(font-awesome.min.css);
 	}
 
 	body {
-		background-color: #D1F2EB;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #AED6F1 15%, ##D1F2EB 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #AED6F1 15%, ##D1F2EB 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #AED6F1 15%, ##D1F2EB 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #AED6F1 15%, ##D1F2EB 85%);
+		background-color: #98FB98;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #AED6F1 15%, ##98FB98 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #AED6F1 15%, ##98FB98 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #AED6F1 15%, ##98FB98 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #AED6F1 15%, ##98FB98 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1644,7 +1644,7 @@ D4E6F1 @import url(font-awesome.min.css);
 /* Type */
 
 	body {
-		background-color: #D1F2EB;
+		background-color: #98FB98;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2028,7 +2028,7 @@ D4E6F1 @import url(font-awesome.min.css);
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #D1F2EB;
+				background-color: #98FB98;
 			}
 
 			input[type="submit"].special:active,
@@ -2260,8 +2260,8 @@ D4E6F1 @import url(font-awesome.min.css);
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #d1f2eb;
-		box-shadow: 0 0 0 1px #d1f2eb;
+		border-color: #98FB98;
+		box-shadow: 0 0 0 1px #98FB98;
 	}
 
 	::-webkit-input-placeholder {
@@ -2913,7 +2913,7 @@ D4E6F1 @import url(font-awesome.min.css);
 		}
 
 			.statistics li.style1 {
-				background-color: #d1f2eb;
+				background-color: #98FB98;
 			}
 
 			.statistics li.style2 {
@@ -3442,7 +3442,7 @@ D4E6F1 @import url(font-awesome.min.css);
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #d1f2eb ;
+					background-color: #98FB98 ;
 				}
 
 				#main input[type="submit"].special:active,
