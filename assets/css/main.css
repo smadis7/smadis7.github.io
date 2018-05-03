@@ -2255,13 +2255,13 @@ D4E6F1 @import url(font-awesome.min.css);
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #D1F2EB;
+		color: # d6eaf8;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #D6EAF8;
-		box-shadow: 0 0 0 1px #D6EAF8;
+		border-color: #d1f2eb;
+		box-shadow: 0 0 0 1px #d1f2eb;
 	}
 
 	::-webkit-input-placeholder {
