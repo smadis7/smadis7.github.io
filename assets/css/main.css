@@ -2913,15 +2913,15 @@ D4E6F1 @import url(font-awesome.min.css);
 		}
 
 			.statistics li.style1 {
-				background-color: #D0ECE7;
+				background-color: #d1f2eb;
 			}
 
 			.statistics li.style2 {
-				background-color: #D4E6F1 ;
+				background-color: # d6eaf8 ;
 			}
 
 			.statistics li.style3 {
-				background-color: #D4EFDF;
+				background-color: #D0ECE7;
 			}
 
 			.statistics li.style4 {
@@ -3442,7 +3442,7 @@ D4E6F1 @import url(font-awesome.min.css);
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #EAFAF1 ;
+					background-color: #d1f2eb ;
 				}
 
 				#main input[type="submit"].special:active,
