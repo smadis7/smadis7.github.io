@@ -2044,7 +2044,7 @@
 			input[type="button"].special.icon:before,
 			button.special.icon:before,
 			.button.special.icon:before {
-				color: #ffffff !important;
+				color: #d6eaf8 !important;
 			}
 
 /* Form */
@@ -2394,11 +2394,11 @@
 		}
 
 	.icon.major {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color:#d1f2eb;
 	}
 
 		.icon.major:before {
-			border-color: rgba(255, 255, 255, 0.35);
+			border-color: #d6eaf8;
 		}
 
 	.icon.alt {
@@ -2407,11 +2407,11 @@
 	}
 
 		.icon.alt:hover {
-			background-color: rgba(255, 255, 255, 0.075);
+			background-color: #D0ECE7;
 		}
 
 		.icon.alt:active {
-			background-color: rgba(255, 255, 255, 0.2);
+			background-color:#D4E6F1;
 		}
 
 /* Image */
