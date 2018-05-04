@@ -2345,7 +2345,7 @@
 			}
 
 		.icon.style1 {
-			color: ##85C1E9;
+			color: #d1f2eb;
 		}
 
 		.icon.style2 {
@@ -2394,11 +2394,11 @@
 		}
 
 	.icon.major {
-		border-color:#d1f2eb;
+		border-color:#636363;
 	}
 
 		.icon.major:before {
-			border-color: #d1f2eb;
+			border-color: #636363;
 		}
 
 	.icon.alt {
