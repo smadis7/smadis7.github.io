@@ -1623,11 +1623,11 @@
 	}
 
 	body {
-		background-color: #d6eaf8  ;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8  85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8   85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #d1f2eb 15%, #d6eaf8  85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #d1f2eb  15%, #d6eaf8   85%);
+		background-color: #48C9B0  ;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #17A589 15%, #1ABC9C  85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #17A589  15%, #1ABC9C   85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #17A589  15%, #1ABC9C   85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #17A589   15%, #1ABC9C    85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3561,11 +3561,11 @@
 		}
 
 		#main header.major h2:after {
-			background-color: #d1f2eb;
-			background-image: -moz-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8  );
-			background-image: -webkit-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8  );
-			background-image: -ms-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8 );
-			background-image: linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8  );
+			background-color: #48C9B0 ;
+			background-image: -moz-linear-gradient(90deg, #A3E4D7 , #A2D9CE , #A9DFBF );
+			background-image: -webkit-linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF  );
+			background-image: -ms-linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF );
+			background-image: linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF  );
 		}
 
 		#main table tbody tr {
