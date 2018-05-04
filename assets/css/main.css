@@ -2345,23 +2345,23 @@
 			}
 
 		.icon.style1 {
-			color: #d1f2eb;
+			color: #A2D9CE;
 		}
 
 		.icon.style2 {
-			color: #D4E6F1 ;
+			color: #F9E79F;
 		}
 
 		.icon.style3 {
-			color: #73C6B6;
+			color: #76D7C4;
 		}
 
 		.icon.style4 {
-			color: #FCF3CF;
+			color: #48C9B0;
 		}
 
 		.icon.style5 {
-			color: #76D7C4  ;
+			color: #D1F2EB;
 		}
 
 		@media screen and (max-width: 1680px) {
