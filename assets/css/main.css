@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background-color: #82E0AA  ;
+		background-color: #d6eaf8  ;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8  85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #d1f2eb  15%, #d6eaf8   85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #d1f2eb 15%, #d6eaf8  85%);
@@ -3561,7 +3561,7 @@
 		}
 
 		#main header.major h2:after {
-			background-color: #dddddd;
+			background-color: #d1f2eb;
 			background-image: -moz-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8  );
 			background-image: -webkit-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8  );
 			background-image: -ms-linear-gradient(90deg, #d1f2eb, #D4EFDF, #d6eaf8 );
