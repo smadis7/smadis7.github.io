@@ -2913,23 +2913,23 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #82E0AA  ;
+				background-color: #48C9B0  ;
 			}
 
 			.statistics li.style2 {
-				background-color: # d6eaf8 ;
+				background-color: #1ABC9C;
 			}
 
 			.statistics li.style3 {
-				background-color: ##85C1E9;
+				background-color: #48C9B0;
 			}
 
 			.statistics li.style4 {
-				background-color: #FCF3CF;
+				background-color: #76D7C4 ;
 			}
 
 			.statistics li.style5 {
-				background-color: #76D7C4  ;
+				background-color: #D1F2EB  ;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3365,7 +3365,7 @@
 		}
 
 		#main a:hover {
-			color: #d6eaf8;
+			color: #17A589;
 		}
 
 		#main strong, #main b {
@@ -3432,7 +3432,7 @@
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #76D7C4  ;
+				background-color: #A9DFBF   ;
 				color: #0000 !important;
 				box-shadow: none;
 			}
@@ -3442,7 +3442,7 @@
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #82E0AA   ;
+					background-color: #48C9B0   ;
 				}
 
 				#main input[type="submit"].special:active,
@@ -3479,8 +3479,8 @@
 			#main input[type="email"]:focus,
 			#main select:focus,
 			#main textarea:focus {
-				border-color: #76D7C4  ;
-				box-shadow: 0 0 0 1px #76D7C4  ;
+				border-color: #A2D9CE;
+				box-shadow: 0 0 0 1px #A3E4D7;
 			}
 
 		#main .select-wrapper:before {
@@ -3507,8 +3507,8 @@
 
 		#main input[type="checkbox"]:focus + label:before,
 		#main input[type="radio"]:focus + label:before {
-			border-color: #76D7C4  ;
-			box-shadow: 0 0 0 1px #76D7C4  ;
+			border-color: #1ABC9C;
+			box-shadow: 0 0 0 1px #D1F2EB;
 		}
 
 		#main ::-webkit-input-placeholder {
@@ -3562,10 +3562,10 @@
 
 		#main header.major h2:after {
 			background-color: #48C9B0 ;
-			background-image: -moz-linear-gradient(90deg, #A3E4D7 , #A2D9CE , #A9DFBF );
-			background-image: -webkit-linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF  );
-			background-image: -ms-linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF );
-			background-image: linear-gradient(90deg, #A3E4D7 , #A2D9CE, #A9DFBF  );
+			background-image: -moz-linear-gradient(90deg, #A3E4D7,#A2D9CE,#A9DFBF);
+			background-image: -webkit-linear-gradient(90deg, #A3E4D7,#A2D9CE,#A9DFBF);
+			background-image: -ms-linear-gradient(90deg, #A3E4D7,#A2D9CE,#A9DFBF);
+			background-image: linear-gradient(90deg, #A3E4D7,#A2D9CE,#A9DFBF);
 		}
 
 		#main table tbody tr {
